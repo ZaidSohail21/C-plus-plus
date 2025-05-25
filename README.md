@@ -39,6 +39,6 @@
 
 ## 🔧 Technologies Used
 - Language: C++
-- IDEs: Code::Blocks, Dev C++, Visual Studio, or any C++11+ compatible compiler
+- Comipler IDEs: Dev C++, Visual Studio, Visual Code, or any C++11+ compatible compiler
 
 ---
