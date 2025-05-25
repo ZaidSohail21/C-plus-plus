@@ -2,22 +2,41 @@
 //using namespace std;
 //int main()
 //{
-//	int i, j;
-//	for (int i = 1; i <= 5; i++)
+//	int a[10];
+//	cout << "Enter 10 numbers :";
+//	for (int i = 0; i < 10; i++)
 //	{
-//		for (int j = 1; j <= 5; j++)
+//		cin >> a[i];
+//		while (a[i] != 0 && a[i] != 1)
 //		{
-//			if (j >= i)
-//			{
-//				cout << "*";
-//			}
-//			else
-//			{
-//				cout << " ";
-//			}
+//			cout << "enter a valid number ";
 //		}
-//		cout << "\n";
 //	}
+//	int zeros = 0;
+//	int ones = 0;
+//	for (int i = 0; i < 10; i++)
+//	{
+//		if (a[i] == 0)
+//		{
+//			zeros++;
+//		}
+//		else
+//		{
+//			ones++;
+//		}
+//	}
+//	if (ones > zeros)
+//	{
+//		cout << "ones";
+//		for(a[i])
+//	}
+//	
+//
+//	for (int i = 0; i < 10; i++)
+//	{
+//		
+//	}
+//	cout << "\n";
 //	system("pause");
 //	return 0;
 //}

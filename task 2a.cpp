@@ -1,34 +1,28 @@
-//#include <iostream>
+//#include <iostream >
 //using namespace std;
-//int main ()
+//int main()
 //{
-//	int a[10];
+//	int b[10];
 //	for (int i = 0; i < 10; i++)
 //	{
-//		cin >> a[i];
+//		cin >> b[i];
 //	}
 //	for (int i = 0; i < 10; i++)
 //	{
-//		if (a[i] % 2 != 0)
+//		if (i % 2  == 0)
 //		{
-//			cout << a[i];
+//			cout << b[i];
 //		}
-//		else
-//		{
-//			cout << "";
-//		}
+//		
 //	}
 //	cout << "\n";
 //	for (int i = 0; i < 10; i++)
 //	{
-//		if (a[i] % 2 == 0)
+//		if (i % 2 != 0)
 //		{
-//			cout << a[i];
+//			cout << b[i];
 //		}
-//		else
-//		{
-//			cout << "";
-//		}
+//
 //	}
 //	cout << "\n";
 //	system("pause");

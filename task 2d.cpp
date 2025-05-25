@@ -1,6 +1,6 @@
 //#include <iostream>
 //using namespace std;
-//int main ()
+//int main()
 //{
 //	int a[10];
 //	for (int i = 0; i < 10; i++)
@@ -9,26 +9,22 @@
 //	}
 //	for (int i = 0; i < 10; i++)
 //	{
-//		if (a[i] % 2 != 0)
+//		if (i % 2 == 0)
 //		{
-//			cout << a[i];
+//			if ( a[i] % 2 != 0)
+//			{
+//				cout << a[i];
+//			}
 //		}
 //		else
 //		{
-//			cout << "";
+//			if (a[i] % 2 == 0)
+//			{
+//				cout << a[i];
+//			}
+//
 //		}
-//	}
-//	cout << "\n";
-//	for (int i = 0; i < 10; i++)
-//	{
-//		if (a[i] % 2 == 0)
-//		{
-//			cout << a[i];
-//		}
-//		else
-//		{
-//			cout << "";
-//		}
+//	
 //	}
 //	cout << "\n";
 //	system("pause");
